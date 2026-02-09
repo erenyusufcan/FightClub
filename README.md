@@ -12,22 +12,26 @@ The game is inspired by the classic childhood game **“Kedi Köpek Savaşı”*
 ## 🎥 Gameplay Previews
 
 ### 🗺️ Map Selection & Game Start
-*Player selects one of four maps and starts the match*  
-<img src="Media/MapSelection_StartGame.gif" width="650">
+_Player selects one of four maps and starts the match_
+
+<img src="media/MainMenu.gif" width="650">
 
 ---
 
 ### 🎯 Throw Mechanic, Power Bar & Wind Effect
-*Press & hold to charge, release to throw — wind affects every shot*  
-<img src="Media/Throw_Wind_PowerBar.gif" width="650">
+_Press & hold to charge, release to throw — wind affects every shot_
+
+<img src="media/Gameplay.gif" width="650">
 
 ---
 
 ### 🏁 Win Screen, Restart & Main Menu Flow
-*Winning the match, restarting the game, or returning to main menu*  
-<img src="Media/Win_Restart_MainMenu.gif" width="650">
+_Winning the match, restarting the game, or returning to main menu_
+
+<img src="media/EndOfGame.gif" width="650">
 
 ---
+
 
 ## 🧭 Project Overview
 
